@@ -16,7 +16,7 @@ An implementation of the prole2prole protocol in Python.
 
 ### Join In
 
-Feel most welcome to join! [Come and say hello!](#get-in-touch).
+Feel most welcome to join! [Come and say hello](#get-in-touch)!
 
 Right now, we need help implementing the remaining modules that make up the dependency graph of Hypercore. That does involve some pretty gnarly Python programming. Some modules are easier than others, so its good to pick something that interests you. In general, the process of implementing a module looks like this.
 
