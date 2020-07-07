@@ -2,7 +2,7 @@
 
 > [hypercore.protocol.org](https://hypercore-protocol.org)
 
-A prole-to-prole implementation for the ones who write Python.
+An implementation of the prole2prole protocol in Python.
 
 ### Progress
 
@@ -14,7 +14,7 @@ A prole-to-prole implementation for the ones who write Python.
 - [x] [merkle-tree-stream](https://github.com/Hyperpy/merkle-tree-stream)
 - [x] [flat-tree](https://github.com/Hyperpy/flat-tree)
 
-### How to Help
+### Join In
 
 Feel most welcome to join! [Come and say hello!](#get-in-touch).
 
