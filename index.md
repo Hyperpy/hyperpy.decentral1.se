@@ -6,6 +6,8 @@ A prole-to-prole implementation for the ones who write Python.
 
 ### Progress
 
+> [github.com/hyperpy](https://github.com/hyperpy)
+
 - [ ] [simple-message-channels](https://github.com/Hyperpy/simple-message-channels)
 - [x] [pyvarint](https://github.com/Hyperpy/pyvarint)
 - [x] [hypercore-crypto](https://github.com/Hyperpy/hypercore-crypto)
@@ -14,16 +16,14 @@ A prole-to-prole implementation for the ones who write Python.
 
 ### How to Help
 
-Feel most welcome to join! It is a good idea to [come and say hello](#get-in-touch). We're friendly :rainbow:.
+Feel most welcome to join! [Come and say hello!](#get-in-touch).
 
-In general, the steps go something like this.
+Right now, we need help implementing the remaining modules that make up the dependency graph of Hypercore. That does involve some pretty gnarly Python programming. Some modules are easier than others, so its good to pick something that interests you. In general, the process of implementing a module looks like this.
 
 1. Look at [this graph](https://datcxx.github.io/hypercore.svg) of the Hypercore dependency graph and pick a module that is not already implemented and seems interesting to you.
-1. Try to understand the high-level of what module is trying to achieve. Then, read the Javascript. If you need help from the implementors of that module, you can most likely find them hanging out in [the Hypercore protocol Discord server](https://discord.com/invite/ga5hxGf), they are also a friendly bunch.
-1. Since Javascript is different from Python, you'll need to investigate if the ways of doing things in the Javascript module can be used on the Python side. For example, how NodeJS streams work will not easily translate to the way we use streams in Python. It is good to have an idea of what will need to be changed / created / adapted to before diving into the implementation.
-1. Finally, go ahead and implement the module! You can use [this package cookiecutter](https://git.autonomic.zone/decentral1se/pypkgtemplate) to get started fast and use the same configuration as the other modules.
-
-You can see the latest Python work at [github.com/hyperpy](https://github.com/hyperpy).
+1. Try to understand the high-level of what module is trying to achieve. Then, read the Javascript. If you need help from the implementors of that module, you can most likely find them hanging out in [the Hypercore protocol Discord server](https://discord.com/invite/ga5hxGf), they are a friendly bunch.
+1. Before starting, you'll need to investigate if the ways of doing things in the Javascript module can be translated to Python. For example, how NodeJS streams work will not easily translate to the way we use streams in Python. It is good to have an idea of what will need to be changed / created / adapted to before diving into the implementation.
+1. Finally, go ahead and implement the module! If you like, you can use [this Python package cookiecutter](https://git.autonomic.zone/decentral1se/pypkgtemplate) to get started quick and use the same configuration as the other modules.
 
 ### Get in Touch
 
