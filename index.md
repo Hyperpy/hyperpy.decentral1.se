@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Hypercore Protocol in Python
 
-You can use the [editor on GitHub](https://github.com/Hyperpy/hyperpy.decentral1.se/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> https://hypercore-protocol.org
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A prole-to-prole implementation for the ones who write Python.
 
-### Markdown
+### Progress
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [ ] [simple-message-channels](https://github.com/Hyperpy/simple-message-channels)
+- [x] [pyvarint](https://github.com/Hyperpy/pyvarint)
+- [x] [hypercore-crypto](https://github.com/Hyperpy/hypercore-crypto)
+- [x] [merkle-tree-stream](https://github.com/Hyperpy/merkle-tree-stream)
+- [x] [flat-tree](https://github.com/Hyperpy/flat-tree)
 
-```markdown
-Syntax highlighted code block
+### How to Help
 
-# Header 1
-## Header 2
-### Header 3
+1. Look at [this](https://datcxx.github.io/hypercore.svg) image of the Hypercore dependency graph and pick a module that is not already implemented. You can see the latest Python work at [github.com/hyperpy](https://github.com/hyperpy).
+1. Implement the module! You can use [this package cookiecutter](https://git.autonomic.zone/decentral1se/pypkgtemplate) to get started fast and use the same configuration as the other modules. If you need help from the Nodejs side, you can join [their Discord channels](https://discord.com/invite/ga5hxGf), they are a friendly bunch.
 
-- Bulleted
-- List
+If you're not sure how to start, [come chat with us](#get-in-touch).
 
-1. Numbered
-2. List
+### Get in Touch
 
-**Bold** and _Italic_ and `Code` text
+We're lurking in a few places...
 
-[Link](url) and ![Image](src)
-```
+- `#hyperpy` on [cabal.chat](https://cabal.chat/)
+- `#hyperpy:autonomic.zone` on [matrix](https://riot.im/app/)
+- `#hyperpy` on [freenode](https://webchat.freenode.net/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Other Implementations
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hyperpy/hyperpy.decentral1.se/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [datrs](https://github.com/datrs/)
+- [datcxx](https://datcxx.github.io/)
