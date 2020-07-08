@@ -1,6 +1,6 @@
 ## Hypercore Protocol in Python
 
-> [hypercore.protocol.org](https://hypercore-protocol.org)
+> [hypercore-protocol.org](https://hypercore-protocol.org)
 
 An implementation of the prole2prole protocol in Python.
 
