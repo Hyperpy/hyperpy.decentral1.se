@@ -35,11 +35,15 @@ module looks like this.
 
 1. Look at [this graph](https://datcxx.github.io/hypercore.svg) of the
    Hypercore dependency graph and pick a module that is not already implemented
-   and seems interesting to you.
-1. Try to understand the high-level of what module is trying to achieve. Then,
-   read the Javascript. If you need help from the implementors of that module,
-   you can most likely find them hanging out in [the Hypercore protocol Discord
-   server](https://discord.com/invite/ga5hxGf), they are a friendly bunch.
+   and seems interesting to you. You can generally find the corresponding
+   source code under [github.com/mafintosh/](https://github.com/mafintosh/) or
+   [github.com/hypercore-protocl](https://github.com/hypercore-protocol/).
+1. Firstly, try to understand the high-level of what module is trying to
+   achieve. Then, try to browse and grok the Javascript. If you need help from
+   the implementors of that module, you can most likely find them hanging out
+   in [the Hypercore protocol Discord
+   server](https://discord.com/invite/ga5hxGf) or on IRC at the `#dat` channel
+   on the Freenode network.
 1. Before starting, you'll need to investigate if the ways of doing things in
    the Javascript module can be translated to Python. For example, how NodeJS
    streams work will not easily translate to the way we use streams in Python.
