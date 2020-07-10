@@ -22,6 +22,8 @@ but right now, we're doing it because we think it is important and try to make
 time for it alongside the rest of \$life. With that said, please do [come and
 say hello](#get-in-touch)!
 
+We are tracking our progress on [this project board](https://github.com/users/decentral1se/projects/1).
+
 The two main needs we have right now are are 1. applying for grant funding 2.
 python programming.
 
