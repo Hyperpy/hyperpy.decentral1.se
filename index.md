@@ -37,7 +37,7 @@ module looks like this.
    Hypercore dependency graph and pick a module that is not already implemented
    and seems interesting to you. You can generally find the corresponding
    source code under [github.com/mafintosh/](https://github.com/mafintosh/) or
-   [github.com/hypercore-protocl](https://github.com/hypercore-protocol/).
+   [github.com/hypercore-protocol](https://github.com/hypercore-protocol/).
 1. Firstly, try to understand the high-level of what module is trying to
    achieve. Then, try to browse and grok the Javascript. If you need help from
    the implementors of that module, you can most likely find them hanging out
