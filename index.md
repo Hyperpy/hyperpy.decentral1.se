@@ -61,6 +61,7 @@ We're lurking in a few places...
 - `#hyperpy` on [cabal.chat](https://cabal.chat/)
 - `#hyperpy:autonomic.zone` on [matrix](https://riot.im/app/)
 - `#hyperpy` on [freenode](https://webchat.freenode.net/)
+- `#hyperpy` on [scuttlebutt](https://www.scuttlebutt.nz/)
 
 ### Other Implementations
 
