@@ -9,7 +9,7 @@ An implementation of the prole2prole protocol in Python.
 > [github.com/hyperpy](https://github.com/hyperpy)
 
 - [ ] [simple-hypercore-protocol](https://github.com/hyperpy/simple-hypercore-protocol)
-- [ ] [simple-message-channels](https://github.com/hyperpy/simple-message-channels)
+- [x] [simple-message-channels](https://github.com/hyperpy/simple-message-channels)
 - [x] [pyvarint](https://github.com/hyperpy/pyvarint)
 - [x] [hypercore-crypto](https://github.com/hyperpy/hypercore-crypto)
 - [x] [merkle-tree-stream](https://github.com/hyperpy/merkle-tree-stream)
