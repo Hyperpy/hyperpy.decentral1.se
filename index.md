@@ -8,13 +8,15 @@ An implementation of the prole2prole protocol in Python.
 
 #### W.I.P
 
+- [arpeecee](https://github.com/hyperpy/arpeecee)
+- [hrpc-runtime](https://github.com/hyperpy/hrpc-runtime)
+- [hrpc](https://github.com/hyperpy/hrpc)
+- [hyperspace-rpc](https://github.com/hyperpy/hyperspace-rpc)
 - [hyperspace-client](https://github.com/hyperpy/hyperspace-client)
 - [simple-hypercore-protocol](https://github.com/hyperpy/simple-hypercore-protocol)
 
 #### Published
 
-- [hyperspace-rpc](https://github.com/hyperpy/hyperspace-rpc)
-- [hyper-rpc](https://github.com/hyperpy/hyper-rpc)
 - [simple-message-channels](https://github.com/hyperpy/simple-message-channels)
 - [pyvarint](https://github.com/hyperpy/pyvarint)
 - [hypercore-crypto](https://github.com/hyperpy/hypercore-crypto)
